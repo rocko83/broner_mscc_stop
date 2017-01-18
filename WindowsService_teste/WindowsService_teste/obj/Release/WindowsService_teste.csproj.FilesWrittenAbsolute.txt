@@ -1,0 +1,4 @@
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/WindowsService_teste/WindowsService_teste/bin/Release/Broner_mscc_cl_stop.exe.mdb
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/WindowsService_teste/WindowsService_teste/bin/Release/Broner_mscc_cl_stop.exe
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/WindowsService_teste/WindowsService_teste/obj/Release/Broner_mscc_cl_stop.exe
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/WindowsService_teste/WindowsService_teste/obj/Release/Broner_mscc_cl_stop.exe.mdb

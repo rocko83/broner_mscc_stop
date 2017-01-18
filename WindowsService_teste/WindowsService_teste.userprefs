@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsService_teste/Wincon.cs">
+    <Files>
+      <File FileName="WindowsService_teste/Program.cs" Line="1" Column="1" />
+      <File FileName="WindowsService_teste/App.config" Line="1" Column="1" />
+      <File FileName="WindowsService_teste/Service1.cs" Line="1" Column="1" />
+      <File FileName="WindowsService_teste/Wincon.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

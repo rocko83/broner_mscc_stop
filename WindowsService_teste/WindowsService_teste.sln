@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService_teste", "WindowsService_teste\WindowsService_teste.csproj", "{2E5A4AA6-67D6-441F-9017-7697532D115B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{4DE7614D-F8EB-475B-B1E4-75682CCA5786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5A4AA6-67D6-441F-9017-7697532D115B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5A4AA6-67D6-441F-9017-7697532D115B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2E5A4AA6-67D6-441F-9017-7697532D115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5A4AA6-67D6-441F-9017-7697532D115B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE7614D-F8EB-475B-B1E4-75682CCA5786}.Debug|Any CPU.ActiveCfg = Release
+		{4DE7614D-F8EB-475B-B1E4-75682CCA5786}.Debug|Any CPU.Build.0 = Release
+		{4DE7614D-F8EB-475B-B1E4-75682CCA5786}.Release|Any CPU.ActiveCfg = Release
+		{4DE7614D-F8EB-475B-B1E4-75682CCA5786}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

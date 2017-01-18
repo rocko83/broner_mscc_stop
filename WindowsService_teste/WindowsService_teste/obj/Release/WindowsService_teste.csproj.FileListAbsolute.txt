@@ -1,0 +1,6 @@
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Release\ResolveAssemblyReference.cache
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Release\Broner_mscc_cl_stop.exe.config
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Release\Broner_mscc_cl_stop.exe
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Release\Broner_mscc_cl_stop.pdb
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Release\Broner_mscc_cl_stop.exe
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Release\Broner_mscc_cl_stop.pdb

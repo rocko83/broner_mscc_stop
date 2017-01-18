@@ -1,0 +1,5 @@
+C:\scripts\programas\ConsoleApplication1_argumentos\ConsoleApplication1_argumentos\obj\Debug\ResolveAssemblyReference.cache
+C:\scripts\programas\ConsoleApplication1_argumentos\ConsoleApplication1_argumentos\bin\Debug\args.exe
+C:\scripts\programas\ConsoleApplication1_argumentos\ConsoleApplication1_argumentos\bin\Debug\args.pdb
+C:\scripts\programas\ConsoleApplication1_argumentos\ConsoleApplication1_argumentos\obj\Debug\args.exe
+C:\scripts\programas\ConsoleApplication1_argumentos\ConsoleApplication1_argumentos\obj\Debug\args.pdb

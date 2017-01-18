@@ -1,0 +1,4 @@
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/ConsoleApplication1_argumentos/ConsoleApplication1_argumentos/bin/Debug/args.exe.mdb
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/ConsoleApplication1_argumentos/ConsoleApplication1_argumentos/bin/Debug/args.exe
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/ConsoleApplication1_argumentos/ConsoleApplication1_argumentos/obj/Debug/args.exe
+/home/damato/Documents/CSN/scripts/programas/broner/broner_mscc_stop/ConsoleApplication1_argumentos/ConsoleApplication1_argumentos/obj/Debug/args.exe.mdb

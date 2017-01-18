@@ -1,0 +1,11 @@
+\\nvr2103\documentos$\cs63544\My Documents\Visual Studio 2008\Projects\WindowsService_teste\WindowsService_teste\bin\Debug\WindowsService_teste.exe
+\\nvr2103\documentos$\cs63544\My Documents\Visual Studio 2008\Projects\WindowsService_teste\WindowsService_teste\bin\Debug\WindowsService_teste.pdb
+\\nvr2103\documentos$\cs63544\My Documents\Visual Studio 2008\Projects\WindowsService_teste\WindowsService_teste\obj\Debug\ResolveAssemblyReference.cache
+\\nvr2103\documentos$\cs63544\My Documents\Visual Studio 2008\Projects\WindowsService_teste\WindowsService_teste\obj\Debug\WindowsService_teste.exe
+\\nvr2103\documentos$\cs63544\My Documents\Visual Studio 2008\Projects\WindowsService_teste\WindowsService_teste\obj\Debug\WindowsService_teste.pdb
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Debug\ResolveAssemblyReference.cache
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Debug\Broner_mscc_cl_stop.exe.config
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Debug\Broner_mscc_cl_stop.exe
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\bin\Debug\Broner_mscc_cl_stop.pdb
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Debug\Broner_mscc_cl_stop.exe
+C:\scripts\programas\WindowsService_teste\WindowsService_teste\obj\Debug\Broner_mscc_cl_stop.pdb
